@@ -19,8 +19,8 @@ p {
 }
 
 #logo {
-    height: 400px;
-    width: 400px;
+    width: 100%;
+    max-height: 400px;
 }
 
 h1 {
