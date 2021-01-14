@@ -26,6 +26,7 @@ p {
     padding-block: 20px;
     padding-top: 20px;
     margin-top: 30px;
+    box-sizing: border-box;
 }
 
 h1 {
